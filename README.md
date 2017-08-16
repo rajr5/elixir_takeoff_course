@@ -1,6 +1,6 @@
 # Physics
 
-**TODO: Add description**
+This is a fun course I finished in Elixir. It features an intro to Elixir, OTP, and Ecto. It can be found [here](https://bigmachine.io/products/take-off-with-elixir/).
 
 ## Installation
 
